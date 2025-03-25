@@ -3,7 +3,7 @@
 01. [Factory Method](src/main/java/factory_method/rpg_map)
 02. [Abstract Factory](src/main/java/abstract_factory/ascii_art)
 03. [Composite](src/main/java/composite/organization)
-04. [Observer]
+04. [Observer](src/main/java/observer/weather_station)
 05. [Singleton]
 06. [Decorator]
 07. [State]
