@@ -1,8 +1,8 @@
 package abstract_factory.ascii_art.widgets;
 
-public abstract class TextField {
+public abstract class Widget {
     protected String text;
-    public TextField(String text) {
+    public Widget(String text) {
         this.text = text;
     }
     public abstract void display();
@@ -10,3 +10,4 @@ public abstract class TextField {
         this.text = text;
     }
 }
+

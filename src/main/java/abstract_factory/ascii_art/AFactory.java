@@ -4,17 +4,17 @@ import abstract_factory.ascii_art.widgets.*;
 
 public class AFactory extends UIFactory {
     @Override
-    public Button createButton(String text) {
+    public Widget createButton(String text) {
         return new ButtonA(text);
     }
 
     @Override
-    public TextField createTextField(String text) {
+    public Widget createTextField(String text) {
         return new TextFieldA(text);
     }
 
     @Override
-    public Checkbox createCheckbox(String text) {
+    public Widget createCheckbox(String text) {
         return new CheckboxA(text);
     }
 }

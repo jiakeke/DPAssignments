@@ -1,6 +1,6 @@
 package abstract_factory.ascii_art.widgets;
 
-public class TextFieldB extends TextField {
+public class TextFieldB extends Widget {
     public TextFieldB(String text) {
         super(text);
     }

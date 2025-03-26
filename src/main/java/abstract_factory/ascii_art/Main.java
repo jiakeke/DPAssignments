@@ -7,13 +7,13 @@ public class Main {
         UIFactory factoryA = new AFactory();
         UIFactory factoryB = new BFactory();
 
-        Button buttonA = factoryA.createButton("Submit");
-        TextField textFieldA = factoryA.createTextField("Bla Bla Bla");
-        Checkbox checkboxA = factoryA.createCheckbox("I Agree.");
+        Widget buttonA = factoryA.createButton("Submit");
+        Widget textFieldA = factoryA.createTextField("Bla Bla Bla");
+        Widget checkboxA = factoryA.createCheckbox("I Agree.");
 
-        Button buttonB = factoryB.createButton("Login");
-        TextField textFieldB = factoryB.createTextField("admin");
-        Checkbox checkboxB = factoryB.createCheckbox("Remember Me");
+        Widget buttonB = factoryB.createButton("Login");
+        Widget textFieldB = factoryB.createTextField("admin");
+        Widget checkboxB = factoryB.createCheckbox("Remember Me");
 
         System.out.println("Style A:");
         textFieldA.display();

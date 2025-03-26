@@ -1,6 +1,6 @@
 package abstract_factory.ascii_art.widgets;
 
-public class ButtonB extends Button {
+public class ButtonB extends Widget {
     public ButtonB(String text) {
         super(text);
     }

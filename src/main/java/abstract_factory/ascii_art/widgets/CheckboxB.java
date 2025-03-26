@@ -1,6 +1,6 @@
 package abstract_factory.ascii_art.widgets;
 
-public class CheckboxB extends Checkbox {
+public class CheckboxB extends Widget{
     public CheckboxB(String text) {
         super(text);
     }
