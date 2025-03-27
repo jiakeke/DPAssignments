@@ -4,7 +4,7 @@
 02. [Abstract Factory](src/main/java/abstract_factory/ascii_art)
 03. [Composite](src/main/java/composite/organization)
 04. [Observer](src/main/java/observer/weather_station)
-05. [Singleton]
+05. [Singleton](src/main/java/singleton/logger)
 06. [Decorator]
 07. [State]
 08. [Template Method]
