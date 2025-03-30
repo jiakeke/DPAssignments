@@ -6,7 +6,7 @@
 04. [Observer](src/main/java/observer/weather_station)
 05. [Singleton](src/main/java/singleton/logger)
 06. [Decorator](src/main/java/decorator/printer)
-07. [State]
+07. [State](src/main/java/state/game)
 08. [Template Method]
 09. [Strategy]
 10. [Chain of Responsibility]
