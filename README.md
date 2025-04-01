@@ -8,7 +8,7 @@
 06. [Decorator](src/main/java/decorator/printer)
 07. [State](src/main/java/state/game)
 08. [Template Method](src/main/java/template_method/game)
-09. [Strategy]
+09. [Strategy](src/main/java/strategy/sorting)
 10. [Chain of Responsibility]
 11. [Memento]
 12. [Proxy]
