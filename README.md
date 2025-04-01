@@ -7,7 +7,7 @@
 05. [Singleton](src/main/java/singleton/logger)
 06. [Decorator](src/main/java/decorator/printer)
 07. [State](src/main/java/state/game)
-08. [Template Method]
+08. [Template Method](src/main/java/template_method)
 09. [Strategy]
 10. [Chain of Responsibility]
 11. [Memento]
