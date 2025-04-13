@@ -10,7 +10,7 @@
 08. [Template Method](src/main/java/template_method/game)
 09. [Strategy](src/main/java/strategy/sorting)
 10. [Chain of Responsibility](src/main/java/chain_of_responsibility/feedback)
-11. [Memento]
+11. [Memento](src/main/java/memento/guistate)
 12. [Proxy]
 13. [Visitor]
 14. [Builder]
