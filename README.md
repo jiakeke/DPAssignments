@@ -11,7 +11,7 @@
 09. [Strategy](src/main/java/strategy/sorting)
 10. [Chain of Responsibility](src/main/java/chain_of_responsibility/feedback)
 11. [Memento](src/main/java/memento/guistate)
-12. [Proxy]
+12. [Proxy](src/main/java/proxy/library)
 13. [Visitor]
 14. [Builder]
 15. [Adapter]
