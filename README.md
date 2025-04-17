@@ -13,7 +13,7 @@
 11. [Memento](src/main/java/memento/guistate)
 12. [Proxy](src/main/java/proxy/library)
 13. [Visitor](src/main/java/visitor/filesystem)
-14. [Builder]
+14. [Builder](src/main/java/builder/computer)
 15. [Adapter]
 16. [Bridge]
 17. [Flyweight]
