@@ -16,7 +16,7 @@
 14. [Builder](src/main/java/builder/computer)
 15. [Adapter](src/main/java/adapter/new_calendar)
 16. [Bridge](src/main/java/bridge/device)
-17. [Flyweight]
+17. [Flyweight](src/main/java/flyweight/rpg_map)
 18. [Prototype]
 19. [Mediator]
 20. [Iterator]
