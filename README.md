@@ -18,7 +18,7 @@
 16. [Bridge](src/main/java/bridge/device)
 17. [Flyweight](src/main/java/flyweight/rpg_map)
 18. [Prototype](src/main/java/prototype/books)
-19. [Mediator]
+19. [Mediator](src/main/java/mediator/chat)
 20. [Iterator]
 21. [Facade]
 22. [Command]
