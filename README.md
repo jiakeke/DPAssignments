@@ -19,6 +19,6 @@
 17. [Flyweight](src/main/java/flyweight/rpg_map)
 18. [Prototype](src/main/java/prototype/books)
 19. [Mediator](src/main/java/mediator/chat)
-20. [Iterator]
+20. [Iterator](src/main/java/iterator/fibonacci)
 21. [Facade]
 22. [Command]
